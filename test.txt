@@ -1,1 +1,2 @@
-To test new text file
+To test new text file. 
+Added additional info
